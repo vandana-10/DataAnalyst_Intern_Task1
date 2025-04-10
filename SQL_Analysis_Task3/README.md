@@ -75,7 +75,7 @@ Execute analysis_queries.sql to explore the data.
 
 To perform the analysis, the following SQL techniques were used:
 
-**JOINs ** (including LEFT JOIN and INNER JOIN) to combine Titanic and Ports datasets
+**JOIN** (including LEFT JOIN and INNER JOIN) to combine Titanic and Ports datasets
 
 **Subqueries**  to filter, group, and compute aggregates
 
@@ -84,6 +84,16 @@ To perform the analysis, the following SQL techniques were used:
 **DROP** statements to clean up tables before reloading
 
 **RENAME** operations to improve column clarity in results
+
+**Aggregate functions** like COUNT(), AVG(), SUM(), and MAX()
+
+**GROUP BY**  to summarize data by category
+
+**ORDER BY** to sort results (e.g., highest survival rate)
+
+**IN ,IS NULL , AND** conditions for filtering specific values
+
+**HAVING** clauses to filter grouped results based on aggregate conditions
 
 
 **✅ Requirements**
@@ -97,6 +107,6 @@ Missing values and data types were handled during table creation.
 
 Embarked codes (C, Q, S) are matched with port names via the Ports dataset.
 
-The analysis file analysis_queries.sql contains all the queries with comments explaining each step.
+The analysis file DataAnalyst_intern_task3.sql contains all the queries with comments explaining each step.
 
 
