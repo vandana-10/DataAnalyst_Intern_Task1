@@ -1,0 +1,37 @@
+# 📊 Financial Analysis Dashboard with Power BI
+
+This project provides a detailed financial and sales analysis using Power BI dashboards 
+and a corresponding PowerPoint presentation. It visualizes performance across regions, products, and segments to
+support data-driven business decisions.
+
+---
+
+## 📁 Project Contents
+
+- `Financial Sample.xlsx` – Sample dataset used for analysis  
+- `FinanceSales_Analysis_Task4.pbix` – Interactive dashboard with KPIs and trends  
+- `Finance-Analysis-Presentation.pptx` – Clean, modern presentation of insights   
+- `README.md` – Project overview and usage instructions
+
+---
+
+## 🔍 Key Features
+
+- **KPI Summary**: Total Sales, Profit, Units Sold, Profit Margins  
+- **Sales Trends**: Monthly performance, year-over-year comparisons  
+- **Regional Insights**: Profit and sales by Region/country  
+- **Product & Segment Analysis**: Top-performing products and segments  
+- **Forecasting & Recommendations**: Actionable business suggestions  
+- **Presentation Ready**: PowerPoint slides for reporting and sharing
+
+---
+
+## 🧠 Insights Derived
+
+- Germany and France are high-profit regions  
+- Paseo and VTT are top-selling and most profitable products  
+- Seasonal trends impact profitability, peaking in Q4  
+- Midmarket segment offers best return on investment
+
+---
+
