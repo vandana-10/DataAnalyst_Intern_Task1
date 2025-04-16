@@ -10,7 +10,6 @@ related to revenue, sales volume, and time-based trends.
 The goal of this analysis is to understand sales performance over time by examining monthly revenue and order volume.
 
 Using SQL, various functions and techniques were applied to extract, group, summarize, and sort the data for meaningful 
-
 interpretation.
 
 
